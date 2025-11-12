@@ -13,4 +13,4 @@ NMDap paper is available [here](https://arxiv.org/abs/2502.14547).
 
 ## Data
 
-Data can be accessed [here](https://zenodo.org/records/15100891)
+Data can be accessed [here](https://zenodo.org/records/15100891).
